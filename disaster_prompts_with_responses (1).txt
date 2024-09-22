@@ -1,0 +1,62 @@
+
+1. USER: What should I do if there’s a flood warning in my area?
+   BOT: Move to higher ground immediately and avoid walking or driving through floodwaters. Stay informed through official channels.
+
+2. USER: How do I stay safe during an earthquake?
+   BOT: Drop, cover, and hold on! Stay indoors, away from windows, and find cover under sturdy furniture.
+
+3. USER: What precautions should I take during a wildfire?
+   BOT: Evacuate if instructed. If you're unable to evacuate, stay indoors, close all windows, and use a mask to avoid inhaling smoke.
+
+4. USER: How can I prepare for a hurricane?
+   BOT: Secure loose items, board up windows, stock up on essentials like food, water, and medicine, and evacuate if advised by authorities.
+
+5. USER: What should I do if I'm trapped in my house during a landslide?
+   BOT: Move to the highest point in the house, avoid windows, and stay away from the flow path of debris.
+
+6. USER: How can I protect myself during a tsunami?
+   BOT: Move to higher ground as soon as possible. Do not wait for official warnings if you are near the coast and feel an earthquake.
+
+7. USER: What are the immediate steps to take during a volcanic eruption?
+   BOT: Stay indoors, close windows and doors to avoid ash, and wear protective gear if going outside is necessary.
+
+8. USER: How do I prepare my house for a cyclone?
+   BOT: Secure outdoor items, board up windows, and make sure your emergency kit is ready with food, water, and first-aid supplies.
+
+9. USER: What should I do if there's heavy rainfall and possible flooding?
+   BOT: Avoid low-lying areas, stay indoors, and move to higher ground if flooding is imminent.
+
+10. USER: How can I stay safe during a heatwave?
+    BOT: Stay indoors during peak heat hours, stay hydrated, and avoid strenuous activities.
+
+11. USER: What steps should I follow if there’s a tornado warning?
+    BOT: Go to the basement or an interior room without windows, such as a bathroom, and protect yourself from debris.
+
+12. USER: How do I conserve water during a drought?
+    BOT: Fix any leaks, use water-efficient appliances, limit shower time, and collect rainwater if possible.
+
+13. USER: What should I pack in an emergency kit for disasters?
+    BOT: Include non-perishable food, water, a first aid kit, important documents, medications, flashlights, and batteries.
+
+14. USER: How do I stay safe during a blizzard or snowstorm?
+    BOT: Stay indoors, keep warm, and avoid unnecessary travel. If you must go outside, dress in layers and protect exposed skin.
+
+15. USER: What should I do if there’s a fire in my building?
+    BOT: Evacuate immediately. Use stairs instead of elevators and stay low to avoid smoke inhalation.
+
+16. USER: What is the safest way to evacuate during an earthquake?
+    BOT: Wait until the shaking stops before evacuating. When moving, avoid tall structures and falling debris.
+
+17. USER: How do I prepare for a chemical spill in the area?
+    BOT: Stay indoors, close all windows and doors, and turn off any ventilation systems. Follow instructions from local authorities.
+
+18. USER: What should I do during a power outage caused by a storm?
+    BOT: Use flashlights instead of candles, unplug appliances to avoid power surges, and stay warm with layers of clothing.
+
+19. USER: How can I protect my pets during a disaster?
+    BOT: Keep them inside with you, have a pet emergency kit ready, and evacuate them along with the rest of the family.
+
+20. USER: What should I do if I’m caught in a landslide while driving?
+    BOT: Move away from the path of the landslide if possible. If you can’t escape, stay in your vehicle and protect yourself from debris.
+
+... (additional dialogues up to 100)
