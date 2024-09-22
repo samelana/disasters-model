@@ -1,5 +1,5 @@
 # disasters-model
-Disaster Model
+
 Disaster Model is a chatbot specifically designed to assist users with disaster-related inquiries. By integrating data about various disaster events and protocols into a large language model (LLM), this chatbot provides insightful information and advice for disaster preparedness, response, and recovery.
 
 Features
@@ -11,7 +11,7 @@ Installation
 To get started with Disaster Model, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/vanshjakhetia/DisasterModel.git
+   git clone https://github.com/samelana/disasters-model.git
    cd DisasterModel
 
 2. Install the Gaia Node by running the command below:
